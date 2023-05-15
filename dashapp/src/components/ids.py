@@ -1,0 +1,6 @@
+P_SLIDER = "p-slider"
+B_SLIDER = "B-slider"
+C_INPUT = "C-constant"
+D_INPUT = "D-constant"
+GRAPH = "simulation-graph"
+DROPDOWN = "agents-dropdown"
